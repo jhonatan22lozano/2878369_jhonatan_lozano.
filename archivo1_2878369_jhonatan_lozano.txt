@@ -1,1 +1,3 @@
 hello, teacher, este es mi primer cambio.
+Este es el segundo cambio en el archivo, se hara todo el procesos con los comandos de git. 
+tercer cambio o modificacion del archivo, se guarda un commit distintos por cada cambio.
